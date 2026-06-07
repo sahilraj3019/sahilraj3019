@@ -15,7 +15,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://www.linkedin.com/in/sahilraj15/)**
+- 🙋‍♂️ All about me is at **[My Website](https://sahilraj3019.github.io/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
